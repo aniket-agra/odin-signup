@@ -16,11 +16,17 @@ body {
 .logo {
     height: 15vh;
     width: 25vw;
-    background-color: rgba(0, 0, 0, 0.565);
+    background-color: rgba(0, 0, 0, 0.303);
+    display: flex;
+    justify-content: center;
 }
 
 .logo > img {
     height: 100%;
+}
+
+.logo > .logo-text {
+    color: white;
 }
 
 .credit {
