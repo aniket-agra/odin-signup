@@ -8,17 +8,21 @@ body {
 }
 
 .left-panel {
+    position: relative;
     background-image: url("../img/halie-west.jpg");
     background-size: cover;
+    width: 25vw;
     /* background-repeat: no-repeat; */
 }
 
 .logo {
-    height: 15vh;
-    width: 25vw;
+    height: 15%;
+    width: 100%;
     background-color: rgba(0, 0, 0, 0.303);
     display: flex;
     justify-content: center;
+    position: absolute;
+    /* top: 15vh; */
 }
 
 .logo > img {
