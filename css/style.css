@@ -4,4 +4,9 @@
 body {
     display: flex;
     flex-direction: row;
+    height: 100vh;
+}
+
+.left-panel {
+    background-image: url("img/halie-west.jpg");
 }
