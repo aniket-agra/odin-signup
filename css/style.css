@@ -8,6 +8,9 @@ body {
 }
 
 .left-panel {
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
     position: relative;
     background-image: url("../img/halie-west.jpg");
     background-size: cover;
@@ -22,7 +25,7 @@ body {
     display: flex;
     justify-content: center;
     position: absolute;
-    /* top: 15vh; */
+    top: 15vh;
 }
 
 .logo > img {
@@ -34,8 +37,6 @@ body {
 }
 
 .credit {
-    display: flex;
-    justify-content: center;
     color: white;
 }
 
