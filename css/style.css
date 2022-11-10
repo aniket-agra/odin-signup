@@ -32,4 +32,9 @@ body {
 .credit {
     display: flex;
     justify-content: center;
+    color: white;
+}
+
+a {
+    color: white;
 }
