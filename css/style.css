@@ -8,5 +8,11 @@ body {
 }
 
 .left-panel {
-    background-image: url("img/halie-west.jpg");
+    background-image: url("../img/halie-west.jpg");
+    background-repeat: no-repeat;
+}
+
+.credit {
+    display: flex;
+    justify-content: center;
 }
