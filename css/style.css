@@ -60,5 +60,10 @@ a {
 
 .right-panel > .middle {
     padding: 2vh 2vw;
-    font-size: 4vh;
+    font-size: 3vh;
+}
+
+label {
+    font-size: 1.5vh;
+    color:rgba(0, 0, 0, 0.8)
 }
