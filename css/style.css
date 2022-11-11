@@ -8,6 +8,7 @@ body {
 }
 
 .left-panel {
+    /* flex: 1 1 auto; */
     display: flex;
     align-items: flex-end;
     justify-content: center;
@@ -43,4 +44,11 @@ body {
 
 a {
     color: rgba(255, 255, 255, 0.877);
+}
+
+.right-panel {
+    /* flex: 2 1 auto; */
+    min-width: 40vw;
+    max-width: 75vw;
+
 }
