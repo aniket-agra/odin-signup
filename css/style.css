@@ -8,7 +8,6 @@ body {
 }
 
 .left-panel {
-    /* flex: 1 1 auto; */
     display: flex;
     align-items: flex-end;
     justify-content: center;
@@ -16,7 +15,6 @@ body {
     background-image: url("../img/halie-west.jpg");
     background-size: cover;
     min-width: 25vw;
-    /* background-repeat: no-repeat; */
 }
 
 .logo {
@@ -47,8 +45,9 @@ a {
 }
 
 .right-panel {
-    /* flex: 2 1 auto; */
     min-width: 40vw;
     max-width: 75vw;
-
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
