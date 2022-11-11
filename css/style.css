@@ -5,6 +5,7 @@ body {
     display: flex;
     flex-direction: row;
     height: 100vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .left-panel {
@@ -50,4 +51,14 @@ a {
     display: flex;
     flex-direction: column;
     justify-content: center;
+}
+
+.right-panel > .top, .right-panel > .bottom {
+    flex: 4 1 auto;
+    background-color: rgb(221, 218, 210);
+}
+
+.right-panel > .middle {
+    padding: 2vh 2vw;
+    font-size: 4vh;
 }
