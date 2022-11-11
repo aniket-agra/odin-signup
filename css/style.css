@@ -26,6 +26,7 @@ body {
     justify-content: center;
     position: absolute;
     top: 20vh;
+    padding: 1vh 0px;
 }
 
 .logo > img {
@@ -37,9 +38,9 @@ body {
 }
 
 .credit {
-    color: white;
+    color: rgba(255, 255, 255, 0.877);
 }
 
 a {
-    color: white;
+    color: rgba(255, 255, 255, 0.877);
 }
