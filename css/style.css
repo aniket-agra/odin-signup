@@ -1,6 +1,12 @@
 * {
     /* border: 2px solid red; */
 }
+
+@font-face {
+    font-family: 'Caveat';
+    src: url("../fonts/Caveat-VariableFont_wght.ttf");
+}
+
 body {
     display: flex;
     flex-direction: row;
@@ -35,6 +41,8 @@ body {
 
 .logo > .logo-text {
     color: white;
+    font-family: 'Caveat';
+    font-size: 7em;
 }
 
 .credit {
