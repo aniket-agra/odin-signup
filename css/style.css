@@ -60,7 +60,12 @@ a {
 
 .right-panel .top > .text {
     font-weight: 700;
-    font-size: 4vh;
+    font-size: 3vh;
+    width: 90%;
+    position: relative;
+    top: 10vh;
+    left: 3vw;
+    right: 2vw;
 }
 
 .right-panel > .middle {
