@@ -58,7 +58,7 @@ a {
     background-color: rgb(217, 215, 215);
 }
 
-.right-panel > .top {
+.right-panel .top > .text {
     font-weight: 700;
     font-size: 4vh;
 }
