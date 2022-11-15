@@ -1,5 +1,6 @@
 * {
     /* border: 2px solid red; */
+    --panel-ht: 95vh;
 }
 
 @font-face {
@@ -10,7 +11,7 @@
 body {
     display: flex;
     flex-direction: row;
-    height: 95vh;
+    height: var(--panel-ht);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
@@ -42,7 +43,7 @@ body {
 .logo > .logo-text {
     color: white;
     font-family: 'Caveat';
-    font-size: 7em;
+    font-size: 200%;
 }
 
 .credit {
