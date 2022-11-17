@@ -104,18 +104,18 @@ input {
 }
 
 form {
-    width: 90%;
+    width: 75%;
 }
 
 .form-line {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
 }
 
 .form-element {
     display: flex;
     flex-direction: column;
-    margin: 1vh auto;
+    margin: 1vh 0 1vh 0;
 }
 
 .right-panel > .bottom {
