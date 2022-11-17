@@ -97,6 +97,15 @@ input {
     width: 150px;
 }
 
+form {
+    width: 90%;
+}
+
+.form-line {
+    display: flex;
+    justify-content: space-around;
+}
+
 .right-panel > .bottom {
     padding: 2vh 2vw;
 }
