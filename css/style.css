@@ -91,6 +91,11 @@ a {
     z-index: 1;
 }
 
+.right-panel .header {
+    position: relative;
+    left: 1vw;
+}
+
 label {
     font-size: 2vh;
     color:rgba(0, 0, 0, 0.8)
