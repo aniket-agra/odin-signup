@@ -149,3 +149,8 @@ button {
 button, .have-acct {
     margin-left: 1vw;
 }
+
+.have-acct {
+    position: relative;
+    top: 3vh;
+}
