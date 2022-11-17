@@ -106,6 +106,12 @@ form {
     justify-content: space-around;
 }
 
+.form-element {
+    display: flex;
+    flex-direction: column;
+    margin: 1vh auto;
+}
+
 .right-panel > .bottom {
     padding: 2vh 2vw;
 }
