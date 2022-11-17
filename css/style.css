@@ -128,7 +128,7 @@ form {
     margin: 1vh 4vw 1vh 0;
 }
 
-.no-match-text {
+.match-text {
     font-size: 2vh;
     color: red;
 }
