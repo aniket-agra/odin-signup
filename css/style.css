@@ -92,8 +92,7 @@ a {
 }
 
 .right-panel .header {
-    position: relative;
-    left: 1vw;
+    margin-left: 1vw;
 }
 
 label {
