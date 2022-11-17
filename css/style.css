@@ -107,6 +107,11 @@ input {
     border-radius: 4px;
 }
 
+.right-panel > .middle input:focus {
+    outline: none;
+    border: 1px solid blue;
+}
+
 form {
     width: 75%;
     margin-left: 1vw;
