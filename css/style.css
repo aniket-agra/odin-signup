@@ -144,6 +144,8 @@ button {
     padding: 1vh 2.5vw;
     border-radius: 4px;
     box-shadow: 0px 2px 4px black;
+    position: relative;
+    top: 1vh;
 }
 
 button, .have-acct {
@@ -152,5 +154,5 @@ button, .have-acct {
 
 .have-acct {
     position: relative;
-    top: 3vh;
+    top: 4vh;
 }
