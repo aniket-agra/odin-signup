@@ -1,1 +1,2 @@
 # odin-signup
+Checks understanding of form creation, validation, and styling; positioning elements with respect to their container, choosing sizes of elements with appropriate units; styling backgrounds of elements.
