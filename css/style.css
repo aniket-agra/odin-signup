@@ -93,10 +93,10 @@ label {
     color:rgba(0, 0, 0, 0.8)
 }
 
-.right-panel > .bottom {
-    padding: 2vh 2vw;
-}
-
 input {
     width: 150px;
+}
+
+.right-panel > .bottom {
+    padding: 2vh 2vw;
 }
