@@ -69,9 +69,12 @@ a {
     background-color: rgb(217, 215, 215);
 }
 
-.right-panel .top > .text {
+.right-panel .top > .text, .right-panel .middle > .header {
     font-weight: 700;
     font-size: 3vh;
+}
+
+.right-panel .top > .text {
     width: 90%;
     position: relative;
     top: 10vh;
@@ -89,7 +92,7 @@ a {
 }
 
 label {
-    font-size: 1.5vh;
+    font-size: 2vh;
     color:rgba(0, 0, 0, 0.8)
 }
 
