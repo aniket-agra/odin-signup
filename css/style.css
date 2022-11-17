@@ -96,3 +96,7 @@ label {
 .right-panel > .bottom {
     padding: 2vh 2vw;
 }
+
+input {
+    width: 150px;
+}
