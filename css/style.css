@@ -110,13 +110,12 @@ form {
 
 .form-line {
     display: flex;
-    justify-content: space-between;
 }
 
 .form-element {
     display: flex;
     flex-direction: column;
-    margin: 1vh 0 1vh 0;
+    margin: 1vh 4vw 1vh 0;
 }
 
 .right-panel > .bottom {
