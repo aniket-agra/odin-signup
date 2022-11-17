@@ -152,6 +152,12 @@ button, .have-acct {
     margin-left: 1vw;
 }
 
+a.log-in {
+    color:rgb(80, 105, 29);
+    text-decoration: none;
+    font-weight: bold;
+}
+
 .have-acct {
     position: relative;
     top: 4vh;
